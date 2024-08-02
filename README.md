@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 
 ## 项目预览
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/66797a503d0f424f8ed43de294adac89.png#pic_center =600x)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6f5e972b480d4ddeb293319b238c91e2.png#pic_center =600x)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/88dde87133f640b58910b42b716ec3e7.png#pic_center =600x)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/0c5a856264024203ae59615431a17c0b.png#pic_center =600x)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2ffbfb6271b54f6e8ba6258d5dfede87.png#pic_center =600x)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/66797a503d0f424f8ed43de294adac89.png =600x #pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6f5e972b480d4ddeb293319b238c91e2.png =600x #pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/88dde87133f640b58910b42b716ec3e7.png =600x #pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/0c5a856264024203ae59615431a17c0b.png =600x #pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2ffbfb6271b54f6e8ba6258d5dfede87.png =600x #pic_center)
 
 ## Install
 ```bash
